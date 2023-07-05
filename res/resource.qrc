@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="background">
+    <file>2.png</file>
+  </qresource>
+  <qresource prefix="button_icons">
+    <file>setting.png</file>
+  </qresource>
+  <qresource prefix="window_icon">
+    <file>chat.png</file>
+  </qresource>
+  <qresource prefix="list_item_icons">
+    <file>chatting.png</file>
+  </qresource>
+</RCC>
